@@ -4,7 +4,9 @@ This repo contains a collection of Jupyter notebooks to accompany tutorials from
 ## Contents
 
 ## Experiment Tracking
-<ul>Experiment Tracking with TensorBoard using Pytorch</ul>
+<ul>
+  <li><a href="https://github.com/Diwura/Tutorial_Notebooks/blob/main/Experiment_tracking_BlogPost.ipynb">Experiment Tracking with TensorBoard using Pytorch</a></li>
+</ul>
 
 ## Usage
 <p>The notebooks are intended to accompany blog tutorials found  <a href="https://medium.com/@boluroajayia">here</a></p>
